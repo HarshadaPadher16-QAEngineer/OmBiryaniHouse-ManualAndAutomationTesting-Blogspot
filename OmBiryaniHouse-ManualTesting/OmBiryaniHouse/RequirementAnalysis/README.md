@@ -1,6 +1,6 @@
 1. ✅Requirement analysis ✅
 
-        - Project name - Om Biryani House - WordPress website
+       🔗 - Project name - Om Biryani House - WordPress website
    
   - Home Page should load properly.
   - Navigation Menu (Home, Menu, About Us, Contact) should work.
@@ -11,5 +11,5 @@
   - Images should load without error.
 
     
-        - Website URL - 
+       🔗 - Website URL - 
   🌐 - https://ombiryanihouse2009.blogspot.com/
