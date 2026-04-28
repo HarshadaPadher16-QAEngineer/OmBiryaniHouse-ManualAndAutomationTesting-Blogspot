@@ -1,6 +1,6 @@
  ✅Test Plan ✅
 
-     - Project name - Om Biryani House - WordPress website 
+    🔗 - Project name - Om Biryani House - WordPress website 
 
 - Introduction:
      Testing Om Biryani House website basic functions like home page, contact form, mobile view.
