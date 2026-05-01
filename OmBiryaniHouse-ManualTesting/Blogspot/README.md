@@ -13,7 +13,7 @@ Created and managed a Blogspot website for Om Biryani House to showcase food off
 - Selected a theme and created the blog
 
 
-       ✅ Blog Post Creation Steps -
+    ✅ Blog Post Creation Steps -
 - Clicked on “New Post”
 - Added the blog title (recipe name)
 - Wrote step-by-step recipe content
@@ -23,5 +23,5 @@ Created and managed a Blogspot website for Om Biryani House to showcase food off
 - Clicked “Publish” to make the post live
 
 
-      🔗 - Website URL -
+    🔗 - Website URL -
     🌐 [Visit Om Biryani House Website](https://ombiryanihouse2009.blogspot.com/)
