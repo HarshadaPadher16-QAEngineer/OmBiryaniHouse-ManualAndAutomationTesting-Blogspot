@@ -1,5 +1,5 @@
 
-   🔗 - Project name - Om Biryani House - Blogspot 
+      🔗 - Project name - Om Biryani House - Blogspot 
 
 Created and managed a Blogspot website for Om Biryani House to showcase food offerings and recipes. Published multiple blog posts including detailed, step-by-step biryani recipes with proper formatting and images. Handled complete blog management including account setup, content creation, and post publishing. Ensured user-friendly content presentation by organizing text and visuals effectively. Regularly updated the website to improve online presence and audience engagement.
 
@@ -11,7 +11,6 @@ Created and managed a Blogspot website for Om Biryani House to showcase food off
 - Entered the blog title (Om Biryani House)
 - Chose a unique blog address (URL)
 - Selected a theme and created the blog
-
 
 
      ✅ Blog Post Creation Steps -
